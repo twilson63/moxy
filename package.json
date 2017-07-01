@@ -1,0 +1,24 @@
+{
+  "name": "moxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "micro": "^7.3.3",
+    "micro-cors": "0.0.4",
+    "micro-jwt-auth": "^1.6.0",
+    "micro-query": "^0.1.0",
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "tape": "^4.7.0"
+  }
+}
